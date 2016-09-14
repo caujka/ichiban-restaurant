@@ -35,6 +35,18 @@ h1 {
   padding: 1em;
 }
 
+#beef .dish-name {
+  background-color: #D6046D;
+}
+
+#sushi .dish-name {
+  background-color: #20C20E;
+}
+
+#chicken .dish-name {
+  background-color: #C9AC4D;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
